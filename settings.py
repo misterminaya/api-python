@@ -1,0 +1,6 @@
+CLIENT_ID = '322f5b77a6afa0d4d0ce'
+SECRET_ID = 'bf9f99267ada6fe663e37467808fc8527e427288'
+
+
+
+
